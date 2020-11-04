@@ -1,0 +1,27 @@
+{
+	"websites_2" : [ 
+		{
+		  "description" : "work_2",
+		  "URL" : "https://www.digitalocean.com"
+		},
+		{
+		  "desciption" : "tutorials_2",
+		  "URL" : "https://www.digitalocean.com/community/tutorials"
+		}
+	 ],
+	"social_media_2" : [
+		{
+		  "description" : "twitter_2",
+		  "link" : "https://twitter.com"
+		},
+		{
+		  "description" : "facebook_2",
+		  "link" : "https://www.facebook.com"
+		},
+		{
+		  "description" : "github_2",
+		  "link" : "https://github.com"
+		}
+	 ]
+		
+}
